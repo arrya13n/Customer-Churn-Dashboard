@@ -12,7 +12,7 @@
 
 **▪ Validate findings using SQL queries.**
 
-**▪ Design 7+ Tableau dashboards for business stakeholders.**
+**▪ Design 7+ Tableau charts for business stakeholders.**
 
 **▪ Present actionable recommendations that can reduce churn.**
 
